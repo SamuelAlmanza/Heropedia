@@ -6,6 +6,9 @@
 
 The app interacts with a Superhero REST API to display superhero data when the user queries the name of a hero/villain.
 
+Stay up to date with the app! 
+https://trello.com/b/J0y3UXZh/heropedia-project
+
 ### To use on your system: 
 
 $ git clone https://github.com/SamuelAlmanza/Heropedia
