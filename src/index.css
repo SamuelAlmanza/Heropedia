@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url('data:image/svg+xml;utf8,<svg width="100" height="100" transform="rotate(0)" opacity="0.2" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g  fill="%23250E17"><circle cx="25" cy="25" r="12.5"/><circle cx="75" cy="75" r="12.5"/><circle cx="75" cy="25" r="12.5"/><circle cx="25" cy="75" r="12.5"/></g></svg>'),
+    #c52754;
+  background-size: 10px, 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar {
+  background: #fff;
+  box-sizing: border-box;
+  border: 3px solid #00000;
+  display: block;
+  height: 70px;  
+  min-width: 100%;
+  padding: 0 16px;  
+}
+
+#logo {
+  color: #DB1D43;
+  font-family: 'Bangers', cursive;
+  font-size: 50px;
+  font-weight: 800;
+}
+
+.main {  
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 700px;
+}
+
+.name {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#search-bar {
+  font-family: 'Dekko', cursive;
+  font-size: 20px;
+  height: 50px;
+  margin-bottom: 50px;
+  padding-left: 10px;  
+  width: 100%;
+}
+
+.search-result {  
+  background: #fff;
+  border-radius: 10px;
+  border: solid 2px #2B3570;
+  box-sizing: border-box;
+  display: flex;
+  margin-bottom: 20px  
+}
+
+.search-result .image img {
+  border-radius: 10px;
+  height: 14em;
+}
+
+.search-result .hero-information {
+  margin-top: 5px;
+  padding-left: 30px;
+}
+
+.stats div {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+}
