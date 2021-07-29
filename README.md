@@ -6,6 +6,8 @@
 
 The app interacts with a Superhero REST API to display superhero data when the user queries the name of a hero/villain.
 
+## DEMO: https://codesandbox.io/s/heropedia-react-js-qlzus
+
 Stay up to date with the app's progress! 
 https://trello.com/b/J0y3UXZh/heropedia-project
 
